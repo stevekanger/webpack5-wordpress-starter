@@ -1,4 +1,4 @@
-# webpack4-wordpress-starter
+# webpack5-wordpress-starter
 
 Simple starter template for wordpress with webpack 5 includes sass along with javascript compilers.
 
